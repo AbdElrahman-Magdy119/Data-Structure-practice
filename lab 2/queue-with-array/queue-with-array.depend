@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1668922410 source:c:\users\microsoft\downloads\queue-with-array\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1668934055 c:\users\microsoft\downloads\queue-with-array\include\queue.h
+

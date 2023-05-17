@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1670636715 source:c:\users\microsoft\downloads\day4ds\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+
+1670636583 c:\users\microsoft\downloads\day4ds\include\tree.h
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1668887497 source:c:\users\microsoft\downloads\stack-with-array\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stackarray.h"
+
+1668887483 c:\users\microsoft\downloads\stack-with-array\include\stackarray.h
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1668887483 source:c:\users\microsoft\downloads\stack-with-linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stacklink.h"
+
+1668927800 c:\users\microsoft\downloads\stack-with-linkedlist\include\stacklink.h
+

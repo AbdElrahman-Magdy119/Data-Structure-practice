@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669427410 source:c:\users\microsoft\downloads\day3ds\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1668880650 source:c:\users\microsoft\downloads\day2ds\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ds.h"
+
+1668872243 c:\users\microsoft\downloads\day2ds\include\ds.h
+

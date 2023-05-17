@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1668931563 source:c:\users\microsoft\downloads\queue-with-linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queuelinked.h"
+
+1668931759 c:\users\microsoft\downloads\queue-with-linkedlist\include\queuelinked.h
+

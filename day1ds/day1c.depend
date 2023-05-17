@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1668588507 source:c:\users\microsoft\downloads\day1ds\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ex.h"
+
+1668588774 c:\users\microsoft\downloads\day1ds\include\ex.h
+
+1668588507 source:e:\ds\day1ds\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ex.h"
+
+1668588774 e:\ds\day1ds\include\ex.h
+
+1669419938 source:e:\ds\day one\day1ds\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ex.h"
+
+1669392046 e:\ds\day one\day1ds\include\ex.h
+
